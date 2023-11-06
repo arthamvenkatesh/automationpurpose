@@ -12,7 +12,7 @@ public class FirefoxIn {
 
 		WebDriver driver = new FirefoxDriver();
 
-		driver.get("http://www.google.com");
+		driver.get("http://www.yahoo.com");
 	}
 
 }
